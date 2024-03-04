@@ -10,6 +10,6 @@
 	<!--  element servlet-mapping is already superseded by the annotation @WebServlet("/userservlet/*")  -->
 		<servlet-mapping>
 		<servlet-name>UserServlet</servlet-name>
-		<url-pattern>/AnyNameWillDo/*</url-pattern>
+		<url-pattern>/UserServletDD/*</url-pattern>
 	</servlet-mapping>
 </web-app>
